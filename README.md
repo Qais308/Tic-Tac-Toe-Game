@@ -1,7 +1,7 @@
 
 # Tic Tac Toe Game ❌⭕
 
-A simple and interactive *Tic Tac Toe* game built using *HTML, **CSS, and **JavaScript*. Challenge your friend or play against yourself in this classic two-player game!
+A simple and interactive *Tic Tac Toe* game built using *HTML, **CSS, and **JavaScript*. Challenge your friend or in this classic two-player game!
 
 ## 🎮 Live Demo
 
